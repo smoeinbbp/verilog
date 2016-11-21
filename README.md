@@ -10,7 +10,7 @@
 
 کلیت این کتاب از کتاب Fundamentals of Digital Logic with Verilog Design برداشت و ترجمه شده است.
 
-
+برای خواندن راحت تر (حروف چینی راست به چپ) آن را در [gitbook](https://www.gitbook.com/book/smbabapour/verilog) بخوانید.
 
 _in development_
 
