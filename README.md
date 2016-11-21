@@ -11,5 +11,6 @@
 کلیت این کتاب از کتاب Fundamentals of Digital Logic with Verilog Design برداشت و ترجمه شده است.
 
 
+
 _in development_
 
