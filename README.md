@@ -4,7 +4,7 @@
 
 بخش‌ها و جمله‌های اندکی از این کتاب از منابع زیر برداشت شده است:
 
-* [خود آموز زبان توصیف سخت افزار Verilog ](www.jahandar.ir/files/Verilog-Hardware-Description-Language.pdf)، ابراهیم جهاندار، ۱۳۹۰
+* [خود آموز زبان توصیف سخت افزار Verilog ](http://www.jahandar.ir/files/Verilog-Hardware-Description-Language.pdf)، ابراهیم جهاندار، ۱۳۹۰
 
 * خود آموز زبان توصیف سخت افزار Verilog ، سعید صفری، ۱۳۷۹
 
