@@ -12,5 +12,7 @@
 
 همچنین می‌توانید این کتاب را در [gitbook](https://www.gitbook.com/book/smbabapour/verilog) بخوانید.
 
+[_**سید معین باباپور**_](/mailto:moein.babapour@protonmail.com)
+
 _in development_
 
