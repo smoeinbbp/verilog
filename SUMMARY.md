@@ -6,7 +6,7 @@
 * [03.Logic Circuits in Verilog](03.logic-circuits-in-verilog.md)
 * [04.Verilog Syntax](04.verilog-syntax.md)
 * [05.Behavioral Specification](05.behavioral-specification.md)
-* [06.Arithmetic Circuit Design in Verilog](06.arithmetic_circuit-design-in-verilog.md)
+* [06.Arithmetic Circuit Design in Verilog](06.arithmetic-circuit-design-in-verilog.md)
 
 
 
