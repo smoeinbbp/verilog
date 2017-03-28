@@ -10,7 +10,7 @@
 
 کلیت این کتاب از کتاب Fundamentals of Digital Logic with Verilog Design برداشت و ترجمه شده است.
 
-این کتاب را در [gitbook](https://www.gitbook.com/book/smbabapour/verilog) نیز می‌توانید بخوانید.
+این کتاب را در [gitbook](https://smbabapour.gitbooks.io/verilog/content/) نیز می‌توانید بخوانید.
 
 [_**سید معین باباپور**_](mailto:moein.babapour@protonmail.com)
 
