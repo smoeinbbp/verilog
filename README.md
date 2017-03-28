@@ -1,4 +1,4 @@
-# Introduction to Verilog \(Persian\)
+# مقدمه‌ای بر زبان توصیف سخت افزار Verilog
 
 کتابچه‌ی پیش رو، مقدمه‌ای است بر زبان توصیف سخت افزاری Verilog.
 
