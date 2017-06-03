@@ -11,4 +11,5 @@
 * [Using a Generic Specification](using-a-generic-specification.md)
 * [Nets and Variables in Verilog](nets-and-variables-in-verilog.md)
 * [Arithmetic Assignment Statements](arithmetic-assignment-statements.md)
+* [Representation of Numbers in Verilog Code](representation-of-numbers-in-verilog-code.md)
 
