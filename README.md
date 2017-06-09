@@ -14,3 +14,4 @@
 
 [_**سید معین باباپور**_](mailto:moein.babapour@protonmail.com)
 
+تحت مجوز GFDL
