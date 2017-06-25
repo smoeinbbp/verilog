@@ -13,5 +13,3 @@
 این کتاب را در [gitbook](https://smbabapour.gitbooks.io/verilog/content/) نیز می‌توانید بخوانید.
 
 [_**سید معین باباپور**_](mailto:moein.babapour@protonmail.com)
-
-تحت مجوز GFDL
