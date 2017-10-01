@@ -12,5 +12,5 @@
 
 این کتاب را در [gitbook](https://smoeinbbp.gitbooks.io/verilog-fa/content/) نیز می‌توانید بخوانید.
 
-[_**سید معین باباپور**_](mailto:moein.babapour@protonmail.com)
+[_**سید معین باباپور**_](mailto:bbp.moein@yahoo.com)
 
